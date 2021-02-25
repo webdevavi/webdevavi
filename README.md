@@ -7,5 +7,5 @@
 
 - **Email** - devavilabs@gmail.com
 - **Twitter** - [@devavi26](https://twitter.com/devavi26)
-- **Facebook** - [fb.com/devavi26](https://facebook.com/devavi26)
+- **Facebook** - [fb.com/devavilabs](https://facebook.com/devavilabs)
 
