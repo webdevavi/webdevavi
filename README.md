@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### 🔭 I’m currently working on an end-to-end chat app project with react native
+#### 🔭 I’m currently working as an intern at [Opecise](https://opecise.com "Opecise")
 #### 🌱 I’m currently learning React Native with typescript
 #### 👯 I’m looking to collaborate on Web dev.
 #### 📫 How to reach me: 
