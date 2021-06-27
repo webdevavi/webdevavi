@@ -1,11 +1,14 @@
 ### Hi there 👋
 
-#### 🔭 I’m currently working as an intern at [Opecise](https://opecise.com "Opecise")
-#### 🌱 I’m currently learning React Native with typescript
+I am **Avinash Sinha**, a full stack web developer.
+
+#### I work with Javascript/Typescript
+#### 🔭 I’ve done 3 months internship at [opecise.com](https://opecise.com)
 #### 👯 I’m looking to collaborate on Web dev.
 #### 📫 How to reach me: 
 
-- **Email** - devavilabs@gmail.com
-- **Twitter** - [@devavi26](https://twitter.com/devavi26)
-- **Facebook** - [fb.com/devavilabs](https://facebook.com/devavilabs)
+- **Email** - savinash2608@gmail.com
+- **Twitter** - [@webdevavi](https://twitter.com/webdevavi)
+- **Facebook** - [fb.com/webdevavi](https://facebook.com/webdevavi)
+- **Polywork** - [poly.work/avinash](https://poly.work/avinash)
 
